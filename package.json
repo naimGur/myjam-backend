@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "myjam-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naimGur/myjam-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimGur/myjam-backend/issues"
+  },
+  "homepage": "https://github.com/naimGur/myjam-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
